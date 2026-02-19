@@ -1,2 +1,36 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* h1 {
+    font-family: 'Google Sans Code', monospace;
+    font-optical-sizing: auto;
+    font-style: bold;
+} */
+
+/*  
+    Google Sans Code Font
+    Font-weight should be between 300 and 800
+*/
+.google-sans-code-major {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*
+    Profile Image - my main image
+*/
+.profile_img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}

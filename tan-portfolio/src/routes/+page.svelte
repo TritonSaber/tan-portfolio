@@ -1,3 +1,14 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+  import Main from "$lib/Main.svelte";
+  import About from "$lib/About.svelte";
+  import Projects from "$lib/Projects.svelte";
+  import Contact from "$lib/Contact.svelte";
+  import './layout.css';
+</script>
+
+<main>
+  <Main />
+  <About />
+  <Projects />
+  <Contact />
+</main>
