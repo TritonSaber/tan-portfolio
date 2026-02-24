@@ -9,11 +9,13 @@
                 <h1 class="text-5xl font-bold text-red-600 mb-4 google-sans-code-major">
                     // about me
                 </h1>
-                
+            </div>
+            
+            <div class="justify-center md:text-left mr-10 mt-8 lg:mt-0">
                 <h3 class="text-3xl font-bold text-gray-700 google-sans-code-major">
                     # description
                 </h3>
-                
+
                 <p class="mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-4">
                     I am a Computer Science student at De La Salle University, Manila, majoring in Software Technology. I am looking for an internship 
                     where I can improve my skills in regards to not only programming, but also teamwork, and gain experience in a software development setting.
@@ -25,7 +27,7 @@
                     <br><br>
                 </p>
 
-                <h3 class="text-3xl font-bold text-gray-700 google-sans-code-major">
+                <h3 class="text-3xl font-bold text-gray-700 google-sans-code-major mt-4">
                     # proficiencies
                 </h3>
                 <ul class="list-disc mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-4">
