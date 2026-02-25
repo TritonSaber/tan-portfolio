@@ -10,5 +10,6 @@
   <Main />
   <About />
   <Projects />
-  <Contact />
+  <!-- remove contact for now -->
+  <!-- <Contact /> -->
 </main>

@@ -19,7 +19,7 @@
         <a href="#main" class="text-gray-600 hover:text-red-500 px-3 py-2 rounded-md text-sm font-medium">Home</a>
         <a href="#about" class="text-gray-600 hover:text-red-500 px-3 py-2 rounded-md text-sm font-medium">About</a>
         <a href="#projects" class="text-gray-600 hover:text-red-500 px-3 py-2 rounded-md text-sm font-medium">Projects</a>
-        <a href="#contact" class="text-gray-600 hover:text-red-500 px-3 py-2 rounded-md text-sm font-medium">Contact</a>
+        <!-- <a href="#contact" class="text-gray-600 hover:text-red-500 px-3 py-2 rounded-md text-sm font-medium">Contact</a> -->
       </div>
 
       <div class="flex items-center sm:hidden">
@@ -38,7 +38,7 @@
         <a href="#main" class="block text-gray-700 hover:bg-gray-200 px-3 py-2 rounded-md text-base font-medium">Home</a>
         <a href="#about" class="block text-gray-700 hover:bg-gray-200 px-3 py-2 rounded-md text-base font-medium">About</a>
         <a href="#projects" class="block text-gray-700 hover:bg-gray-200 px-3 py-2 rounded-md text-base font-medium">Projects</a>
-        <a href="#contact" class="block text-gray-700 hover:bg-gray-200 px-3 py-2 rounded-md text-base font-medium">Contact</a>
+        <!-- <a href="#contact" class="block text-gray-700 hover:bg-gray-200 px-3 py-2 rounded-md text-base font-medium">Contact</a> -->
       </div>
     </div>
   {/if}
