@@ -1,12 +1,8 @@
-<script>
-    // Script for footer
-</script>
-
 <footer class="bg-white dark:bg-gray-900">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center">
         <div class="flex flex-col mt-4 md:items-start space-y-1">
             <p class="text-gray-600 text-sm">
-                &copy; {new Date().getFullYear()} Justine Joshua Tan. All rights reserved.
+                &copy; {new Date().getFullYear()} Justine Tan. All rights reserved.
             </p>
 
             <p class="text-gray-600 text-sm mt-2 mb-4 md:mt-0 md:ml-4">

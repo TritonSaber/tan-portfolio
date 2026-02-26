@@ -8,8 +8,7 @@
 </script>
 
 <Navbar />
-
-<div class="pt-4">
+<div>
 	{@render children()}
 </div>
 
