@@ -19,7 +19,7 @@
                             {project.title}
                         </h3>
 
-                        <p class="mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-4">
+                        <p class="mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-4 mb-10">
                             {project.description}<br>
                             <a href={project.githublink} target="_blank" rel="noopener noreferrer" class="mt-6 inline-block text-white bg-red-600 hover:bg-red-400 transition-colors duration-300 px-4 py-2 rounded-md" aria-label="GitHub Repository">
                                 View on GitHub
@@ -32,7 +32,7 @@
                             <br>
 
                             {#each project.tags as tag}
-                                <span class="inline-block bg-gray-200 text-gray-800 text-sm px-2 py-1 rounded mr-2 mt-5 mb-10">{tag}</span>
+                                <span class="inline-block bg-gray-200 text-gray-800 text-sm px-2 py-1 rounded mr-2 mt-5">{tag}</span>
                             {/each}
                         </p>
                         
