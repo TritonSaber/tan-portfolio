@@ -26,7 +26,7 @@
                 <h3 class="text-3xl font-bold text-gray-700 google-sans-code-major mt-4">
                     # proficiencies
                 </h3>
-                <ul class="list-disc mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-4">
+                <ul class="list-disc mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-8">
                     <li>C++, Java, Python, JavaScript, HTML and CSS</li>
                     <li>Selenium IDE, and limited knowledge of Jest</li>
                     <li>Database management (MySQL, MongoDB, Rapidminer)</li>

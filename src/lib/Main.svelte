@@ -16,12 +16,12 @@
                     Justine Joshua Tan
                 </h2>
 
-                <p class="mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-4">
+                <p class="mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto">
                     Computer Science student <br />
                     De La Salle University, Manila
                 </p>
 
-                <a href="/resume/Justine Joshua Tan - Resume.pdf" target="_blank" rel="noopener noreferrer" class="ml-4 mt-6 inline-block text-white bg-red-600 hover:bg-red-400 transition-colors duration-300 px-4 py-2 rounded-md" aria-label="Resume">
+                <a href="/resume/Justine Joshua Tan - Resume.pdf" target="_blank" rel="noopener noreferrer" class="mt-6 inline-block text-white bg-red-600 hover:bg-red-400 transition-colors duration-300 px-4 py-2 rounded-md" aria-label="Resume">
                     View My Resume
                 </a>
 
