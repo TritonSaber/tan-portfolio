@@ -5,7 +5,7 @@
 
 <main id="main" class="min-h-screen scroll-mt-20 flex flex-col items-center justify-center bg-gray-50 dark:bg-black">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div class="flex flex-col lg:flex-row items-start">
+        <div class="flex flex-col-reverse lg:flex-row items-start">
             <div class="justify-center md:text-left md:w-1/2">
                 <img src={logoImg} alt="Justine Tan Logo" class="w-32 h-32">
                 <h1 class="text-5xl font-bold text-red-600 mb-4 google-sans-code-major">
