@@ -27,11 +27,11 @@
                     # proficiencies
                 </h3>
                 <ul class="list-disc mt-8 text-gray-600 text-wrap text-justify max-w-2xl mx-auto px-8">
-                    <li>C++, Java, Python, JavaScript, HTML and CSS</li>
-                    <li>Selenium IDE, and limited knowledge of Jest</li>
-                    <li>Database management (MySQL, MongoDB, Rapidminer)</li>
-                    <li>Relearning HTML, CSS, and JavaScript via SvelteKit, learning Tailwind</li>
-                    <li>Working towards being an AWS Certified Cloud Practitioner</li>
+                    <li><b>Languages:</b> C++, Java, Python, JavaScript</li>
+                    <li><b>QA & Automation:</b> Selenium IDE and Jest</li>
+                    <li><b>Databases & Tools:</b> MySQL, MongoDB, Rapidminer</li>
+                    <li><b>Web Development:</b> HTML, CSS, JavaScript via SvelteKit, Tailwind CSS</li>
+                    <li><b>Cloud Computing:</b> Working towards AWS Certified Cloud Practitioner</li>
                 </ul>
             </div>
         </div>
